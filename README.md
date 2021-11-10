@@ -1,26 +1,29 @@
----
-title: "homepage"
-author: "Eryn McFarlane"
-date: "29/10/2021"
-output: html_document
----
+homepage
+================
+Eryn McFarlane
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+<div style= "float:right;position: relative; -80px;">
 
+<img src="images/Eryn_cotedivoire.jpg" width="25%" style="float:right; padding:10px" />
 
-```{r, echo=FALSE,out.width= "25%", out.extra='style="float:left; padding:5px"'}
-knitr::include_graphics("./Eryn_cotedivoire.jpg")
-```
+I am an evolutionary ecologist interested in speciation in wild systems.
+I use quantitative genetics and genomics to answer questions about
+hybridization, reproductive isolation, competition and physiology. I
+combine long term field monitoring with experiments done in the wild to
+better understand what happens when closely related species come into
+secondary contact.
 
-I am an evolutionary ecologist interested in speciation in wild systems. I use quantitative genetics and genomics to answer questions about hybridization, reproductive isolation, competition and physiology. I combine long term field monitoring with experiments done in the wild to better understand what happens when closely related species come into secondary contact.
+I’m currently a postdoctoral researcher in [Alex Buerkle’s
+lab](http://www.uwyo.edu/buerkle/) at the University of Wyoming. My
+current research aims to integrate empirical data (from the Scottish Red
+deer x sika hybrids project) with simulations to make recommendations
+about best practices for statistics in evolutionary genetics.
 
-I'm currently a postdoctoral researcher in [Alex Buerkle's lab][CAB] at the University of Wyoming. My current research aims to integrate empirical data (from the Scottish Red deer x sika hybrids project) with simulations to make recommendations about best practices for statistics in evolutionary genetics.
+My previous work was as a Swedish Research Council (Vetenskapsrådet)
+International Postdoctoral Fellow at the University of Edinburgh, with
+collaboration with Lund University. I worked on red deer and sika
+hybridization in Scotland, as part of [Josephine
+Pemberton’s](https://pemberton.bio.ed.ac.uk/home) research group.
 
-My previous work was as a Swedish Research Council (Vetenskapsrådet) International Postdoctoral Fellow at the University of Edinburgh, with collaboration with Lund University. I worked on red deer and sika hybridization in Scotland, as part of [Josephine Pemberton's][JP] research group.
-
-To learn more about my on-going research, please check out my Research page!
-
-[CAB]:http://www.uwyo.edu/buerkle/
-[JP]: https://pemberton.bio.ed.ac.uk/home
+To learn more about my on-going research, please check out my Research
+page!
