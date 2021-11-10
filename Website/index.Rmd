@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r, echo=FALSE, out.width='25%', out.extra='style="float:right; padding:10px"'}
+```{r, echo=FALSE, out.width='25%', out.extra='style=float:right; padding:10px'}
 include_graphics("images/Eryn_cotedivoire.jpg")
 ```
 

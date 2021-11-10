@@ -11,7 +11,7 @@ library(knitr)
 
 Red deer are a charismatic, economically important deer species that are characteristic of the Scottish wilderness. Sika are a Japanese deer species that was introduced to Scotland in the 19th century, resulting in hybridization between the two species.
 
-```{r, echo=FALSE, out.width='40%', out.extra='style="float:right; padding:10px"', fig.cap="photo courtesy of Ken McInnes", fig.topcaption=FALSE}
+```{r, echo=FALSE, out.width='40%', out.extra='style=float:right; padding:10px', fig.cap="photo courtesy of Ken McInnes", fig.topcaption=FALSE}
 include_graphics("images/highland_red-sika_hybrid_KenMcInnes.jpg")
 ```
 
