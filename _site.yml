@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "S. Eryn McFarlane Research"
+  left:
+    - text: "Home"
+      href: ReadMe.Rmd
+    - text: "Research"
+      href: Research.Rmd
+
+rmarkdown::render_site()
