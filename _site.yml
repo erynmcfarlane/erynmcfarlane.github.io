@@ -6,3 +6,5 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
+      
+rmarkdown::render_site()
