@@ -8,56 +8,72 @@ knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
 ```
 
-<!-- -->
-24) McFarlane, S.E.and J.M. Pemberton. 2021. Admixture mapping reveals loci for carcass mass in red deer x sika hybrids in Kintyre, Scotland. G3: Genes| Genomes| Genetics 11(1):https://doi.org/10.1093/g3journal/jkab274
 
-23) McFarlane, S.E.\*, M. Ålund\*, P.M. Sirkiä and A. Qvarnström. 2021. Low heritability but significant early environmental effects on resting metabolic rate in a wild passerine. American Naturalist https://doi.org/10.1086/715842
+**2021**
+<br>
+McFarlane, S.E.and J.M. Pemberton. 2021. Admixture mapping reveals loci for carcass mass in red deer x sika hybrids in Kintyre, Scotland. G3: Genes| Genomes| Genetics 11(1):https://doi.org/10.1093/g3journal/jkab274
+
+McFarlane, S.E.\*, M. Ålund\*, P.M. Sirkiä and A. Qvarnström. 2021. Low heritability but significant early environmental effects on resting metabolic rate in a wild passerine. American Naturalist https://doi.org/10.1086/715842
 *these authors contributed equally to this manuscript
 
-22) McFarlane, S.E., H.V. Senn, S.L. Smith and J.M. Pemberton. 2021. Locus-specific introgression in young hybrid swarms: drift dominates selection. Molecular Ecology https://doi.org/10/111/mec.15862
+McFarlane, S.E., H.V. Senn, S.L. Smith and J.M. Pemberton. 2021. Locus-specific introgression in young hybrid swarms: drift dominates selection. Molecular Ecology https://doi.org/10/111/mec.15862
+<br><br>
+**2020**
+<br>
+Mugal, C.F., M. Wang, N. Backström, D. Wheatcroft, M. Ålund, M. Sémon, S.E. McFarlane, L. Dutoit, A. Qvarnström and H. Ellegren. 2020. Tissue-specific patterns of regulatory changes underlying gene expression differences among Ficedula flycatchers and their naturally-occuring F1 hybrids. Genome Research 30(12):1727-1739
 
-21) Mugal, C.F., M. Wang, N. Backström, D. Wheatcroft, M. Ålund, M. Sémon, S.E. McFarlane, L. Dutoit, A. Qvarnström and H. Ellegren. 2020. Tissue-specific patterns of regulatory changes underlying gene expression differences among Ficedula flycatchers and their naturally-occuring F1 hybrids. Genome Research 30(12):1727-1739
+P. de Villemereuil, A. Charmantier , D. Arlt , P. Bize , P. Brekke , L. Brouwer , A. Cockburn , S.D. Côté , F.S. Dobson , S.R. Evans , M. Festa-Bianchet , M. Gamelon , S. Hamel , J. Hegelbach , K. Jerstad , B. Kempenaers , L.E.B. Kruuk , J. Kumpula , T. Kvalnes , A.G. McAdam , S.E. McFarlane , M.B. Morrissey , T. Pärt , J.M. Pemberton , A. Qvarnström , O.W. Røstad , J. Schroeder , J.C. Senar , B.C. Sheldon , M. van de Pol , M.E. Visser , N.T. Wheelwright , J. Tufto , L.-M. Chevin. 2020 Fluctuating optimum and temporally variable selection on breeding data in birds and mammals. Proceedings of the Natural Academy of Sciences DOI: 10.1073/pnas.2009003117. 
 
-20) P. de Villemereuil, A. Charmantier , D. Arlt , P. Bize , P. Brekke , L. Brouwer , A. Cockburn , S.D. Côté , F.S. Dobson , S.R. Evans , M. Festa-Bianchet , M. Gamelon , S. Hamel , J. Hegelbach , K. Jerstad , B. Kempenaers , L.E.B. Kruuk , J. Kumpula , T. Kvalnes , A.G. McAdam , S.E. McFarlane , M.B. Morrissey , T. Pärt , J.M. Pemberton , A. Qvarnström , O.W. Røstad , J. Schroeder , J.C. Senar , B.C. Sheldon , M. van de Pol , M.E. Visser , N.T. Wheelwright , J. Tufto , L.-M. Chevin. 2020 Fluctuating optimum and temporally variable selection on breeding data in birds and mammals. Proceedings of the Natural Academy of Sciences DOI: 10.1073/pnas.2009003117. 
+Koski, T.M., P.M. Sirkiä, S.E. McFarlane, M.Ålund and A. Qvarnström. 2020. Differences in incubation behaviour and niche separation of two competing flycatcher species. Behavioural Ecology and Sociobiology 74(8)1:10
 
-19) Koski, T.M., P.M. Sirkiä, S.E. McFarlane, M.Ålund and A. Qvarnström. 2020. Differences in incubation behaviour and niche separation of two competing flycatcher species. Behavioural Ecology and Sociobiology 74(8)1:10
+McFarlane, S.E., D.C. Hunter, H.V. Senn, S.L. Smith, R. Holland, J. Huisman, J.M. Pemberton. 2020 Increased genetic marker density reveals high levels of admixture between red deer and introduced Japanese sika in Kintyre, Scotland. Evolutionary Applications 13(2) doi: https://doi.org/10.1101/588327
+<br><br>
+**2019**
+<br>
+McFarlane, S.E. and J.M. Pemberton. Detecting the true extent of introgression during anthropogenic hybridization. 2019. Trends in Ecology and Evolution 34(4): 315 – 326 DOI:https://doi.org/10.1016/j.tree.2018.12.013
+<br><br>
+**2018**
+<br>
+Ålund, M., S. Persson Schmiterlöw, S.E. McFarlane and A. Qvarnström. 2018. Optimal sperm length for high siring success depends on forehead patch size in collared flycatchers. Behavioral Ecology DOI: 10.1093/beheco/ary115 
 
-18) McFarlane, S.E., D.C. Hunter, H.V. Senn, S.L. Smith, R. Holland, J. Huisman, J.M. Pemberton. 2020 Increased genetic marker density reveals high levels of admixture between red deer and introduced Japanese sika in Kintyre, Scotland. Evolutionary Applications 13(2) doi: https://doi.org/10.1101/588327
+J.E. Lane, A.G. McAdam, S.E. McFarlane, C.T. Williams, M.M. Humphries, D.W. Coltman, J.C. Gorrell, and S. Boutin. 2018. Phenological shifts in North American red squirrels: disentangling the roles of phenotypic plasticity and microevolution. Journal of Evolutionary Biology https://doi.org/10.1111/jeb.13263
 
-17) McFarlane, S.E. and J.M. Pemberton. Detecting the true extent of introgression during anthropogenic hybridization. 2019. Trends in Ecology and Evolution 34(4): 315 – 326 DOI:https://doi.org/10.1016/j.tree.2018.12.013
-
-16) Ålund, M., S. Persson Schmiterlöw, S.E. McFarlane and A. Qvarnström. 2018. Optimal sperm length for high siring success depends on forehead patch size in collared flycatchers. Behavioral Ecology DOI: 10.1093/beheco/ary115 
-
-15) J.E. Lane, A.G. McAdam, S.E. McFarlane, C.T. Williams, M.M. Humphries, D.W. Coltman, J.C. Gorrell, and S. Boutin. 2018. Phenological shifts in North American red squirrels: disentangling the roles of phenotypic plasticity and microevolution. Journal of Evolutionary Biology https://doi.org/10.1111/jeb.13263
-
-14) McFarlane, S.E., M. Ålund, P.M. Sirkiä and A. Qvarnström. 2018. Difference in plasticity of resting metabolic rate – the proximate explanation to different niche breadth in sympatric Ficedula flycatchers. Ecology and Evolution DOI: 10.1002/ece3.3987
-
-13) Sirkiä, P.M.\*, S.E. McFarlane\*, W. Jones, D. Wheatcroft, M. Ålund, J. Rybinski and A. Qvarnström. 2017. Climate change-driven build up of temporal isolation in a young avian hybrid zone. Evolution 72(2):363-374 
+McFarlane, S.E., M. Ålund, P.M. Sirkiä and A. Qvarnström. 2018. Difference in plasticity of resting metabolic rate – the proximate explanation to different niche breadth in sympatric Ficedula flycatchers. Ecology and Evolution DOI: 10.1002/ece3.3987
+<br><br>
+**2017**
+<br>
+Sirkiä, P.M.\*, S.E. McFarlane\*, W. Jones, D. Wheatcroft, M. Ålund, J. Rybinski and A. Qvarnström. 2017. Climate change-driven build up of temporal isolation in a young avian hybrid zone. Evolution 72(2):363-374 
 *these authors contributed equally to this manuscript
 
-12) Silva, C.N.S.\*, S.E. McFarlane\*, I.J. Hagen, L. Rönnegård, A.M. Billing, T. Kvalnes, P. Kemppainen, B. Rønning, T.H. Ringsby, E.-E. Sæther, A. Qvarnström, H. Ellegren, H. Jensen and A. Husby. 2017. Insights into the genetic architecture of morphological and sexually selected traits in two passerine bird species. Heredity DOI: 10.1038/hdy.201729
+Silva, C.N.S.\*, S.E. McFarlane\*, I.J. Hagen, L. Rönnegård, A.M. Billing, T. Kvalnes, P. Kemppainen, B. Rønning, T.H. Ringsby, E.-E. Sæther, A. Qvarnström, H. Ellegren, H. Jensen and A. Husby. 2017. Insights into the genetic architecture of morphological and sexually selected traits in two passerine bird species. Heredity DOI: 10.1038/hdy.201729
 *these authors contributed equally to this manuscript. 
+<br><br>
+**2016**
+<br>
+McFarlane, S.E., P.M. Sirkiä, M. Ålund and A. Qvarnström. 2016 Hybrid dysfunction expressed as elevated metabolic rate in Ficedula flycatchers. PLoS One DOI:10.1371/journal.pone.0161547 
 
-11) McFarlane, S.E., P.M. Sirkiä, M. Ålund and A. Qvarnström. 2016 Hybrid dysfunction expressed as elevated metabolic rate in Ficedula flycatchers. PLoS One DOI:10.1371/journal.pone.0161547 
-
-10) Rybinski, J.\*, P.M. Sirkiä\*, S.E. McFarlane\*, N. Vallin, D. Wheatcroft, M. Ålund and A. Qvarnström. 2016. Competition-driven build-up of habitat isolation and selection modified dispersal in a young avian hybrid zone. Evolution DOI: 10.1111/evo.13019 
+Rybinski, J.\*, P.M. Sirkiä\*, S.E. McFarlane\*, N. Vallin, D. Wheatcroft, M. Ålund and A. Qvarnström. 2016. Competition-driven build-up of habitat isolation and selection modified dispersal in a young avian hybrid zone. Evolution DOI: 10.1111/evo.13019 
 *these authors contributed equally to this manuscript
 
-9) McFarlane, S.E., A. Söderberg, D. Wheatcroft, and A. Qvarnström. 2016. Song discrimination by nestling collared flycatchers during early development. Biology Letters DOI: 10.1098/rsbl.2016.0234
+McFarlane, S.E., A. Söderberg, D. Wheatcroft, and A. Qvarnström. 2016. Song discrimination by nestling collared flycatchers during early development. Biology Letters DOI: 10.1098/rsbl.2016.0234
 
-8) Cramer, E.R.A., M. Ålund, S.E. McFarlane, A. Johnsen and A. Qvarnström. 2016. Females discriminate against heterospecific sperm in a natural hybrid swarm. Evolution DOI: 10.1111/evo.12986 
+Cramer, E.R.A., M. Ålund, S.E. McFarlane, A. Johnsen and A. Qvarnström. 2016. Females discriminate against heterospecific sperm in a natural hybrid swarm. Evolution DOI: 10.1111/evo.12986 
 
-7) Kardos, M., A. Husby, S.E. McFarlane, A. Qvarnström and H. Ellegren. 2016. Whole genome resequencing of extreme phenotypes in collared flycatchers highlights the difficulty of detecting quantitative trait loci in natural populations. Molecular Ecology Resources, DOI: 10.1111/1755-0998.12498 
+Kardos, M., A. Husby, S.E. McFarlane, A. Qvarnström and H. Ellegren. 2016. Whole genome resequencing of extreme phenotypes in collared flycatchers highlights the difficulty of detecting quantitative trait loci in natural populations. Molecular Ecology Resources, DOI: 10.1111/1755-0998.12498 
 
-6) Rönnegård, L.\*, S.E. McFarlane\*, A. Husby, T. Kawakami, H. Ellegren and A. Qvarnström. 2016. Increasing the power of genome wide association studies in natural populations using repeated measures – evaluation and implementation. Methods in Ecology and Evolution, DOI: 10.1111/2041-210X.12535 
+Rönnegård, L.\*, S.E. McFarlane\*, A. Husby, T. Kawakami, H. Ellegren and A. Qvarnström. 2016. Increasing the power of genome wide association studies in natural populations using repeated measures – evaluation and implementation. Methods in Ecology and Evolution, DOI: 10.1111/2041-210X.12535 
 *these authors contributed equally to this manuscript
 
-5) Qvarnström, A, M. Ålund, S.E. McFarlane and P. Sirkiä. 2016. Climate adaptation and speciation: particular focus on reproductive barriers in Ficedula Flycatchers. Evolutionary Applications. DOI: 10:1111/evo.12276 
+Qvarnström, A, M. Ålund, S.E. McFarlane and P. Sirkiä. 2016. Climate adaptation and speciation: particular focus on reproductive barriers in Ficedula Flycatchers. Evolutionary Applications. DOI: 10:1111/evo.12276 
+<br><br>
+**2015**
+<br>
+McFarlane, S.E., J.C. Gorrell, D.W. Coltman, M.M. Humphries, S. Boutin and A.G. McAdam. The nature of nurture in a wild mammal’s fitness. Proceedings of the Royal Society of London B: Biological Sciences 282(1806):20142422 DOI: 10.1098/rspb.2014.2422
+<br><br>
+**2014 and earlier**
+<br>
+D.W.A. Noble, S.E. McFarlane, J.S. Keogh and M.J. Whiting. 2014. Maternal and additive genetic effects contribute to variation in offspring traits in a lizard. Behavioural Ecology 25(3):633-640 DOI: 10.1093/beheco/aru032
 
-4) McFarlane, S.E., J.C. Gorrell, D.W. Coltman, M.M. Humphries, S. Boutin and A.G. McAdam. The nature of nurture in a wild mammal’s fitness. Proceedings of the Royal Society of London B: Biological Sciences 282(1806):20142422 DOI: 10.1098/rspb.2014.2422
+McFarlane, S.E., J.C. Gorrell, D.W. Coltman, M.M. Humphries, S. Boutin and A.G. McAdam. 2014. Very low levels of direct additive genetic variance in fitness and fitness components in a red squirrel population. Ecology and Evolution 4(10):1729 – 1738 DOI: 10.1002/ece3.982
 
-3) D.W.A. Noble, S.E. McFarlane, J.S. Keogh and M.J. Whiting. 2014. Maternal and additive genetic effects contribute to variation in offspring traits in a lizard. Behavioural Ecology 25(3):633-640 DOI: 10.1093/beheco/aru032
-
-2) McFarlane, S.E., J.C. Gorrell, D.W. Coltman, M.M. Humphries, S. Boutin and A.G. McAdam. 2014. Very low levels of direct additive genetic variance in fitness and fitness components in a red squirrel population. Ecology and Evolution 4(10):1729 – 1738 DOI: 10.1002/ece3.982
-
-1) McFarlane, S.E., J.E. Lane, R.W. Taylor, J.C. Gorrell, D.W. Coltman, M.M. Humphries, S. Boutin and A.G. McAdam. 2011. The heritability of multiple male mating in a promiscuous mammal. Biology Letters DOI: 10.1098/rsbl.2010.1003 
+McFarlane, S.E., J.E. Lane, R.W. Taylor, J.C. Gorrell, D.W. Coltman, M.M. Humphries, S. Boutin and A.G. McAdam. 2011. The heritability of multiple male mating in a promiscuous mammal. Biology Letters DOI: 10.1098/rsbl.2010.1003 

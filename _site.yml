@@ -8,8 +8,9 @@ navbar:
       href: research.html
     - text: "Publications"
       href: publications.html
-=======
+=======:
 output:
   html_document:
     self_contained: no
     theme: default
+=======
