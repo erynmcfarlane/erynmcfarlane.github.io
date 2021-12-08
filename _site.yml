@@ -1,13 +1,4 @@
 name: "my-website"
-navbar:
-  title: "S. Eryn McFarlane"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Research"
-      href: research.html
-    - text: "Publications"
-      href: publications.html
 =======:
 output:
   html_document:
