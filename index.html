@@ -311,17 +311,8 @@ $(document).ready(function () {
 
 </div>
 
-  <div class="photo-collage">
-  <img src="images/colias" alt="Photo 1">
-  <img src="images/highland_red-sika_hybrid_KenMcInnes.jpg" alt="Photo 2">
-  <img src="images/malecollared_prettybigpatch.jpg" alt="Photo 3">
-  <img src="images/seeds" alt="Photo 4">
-  <img src="images/grass.png" alt="Photo 5">
-</div>
-
-
 <p>Welcome to the Statistical Genetics (StatsGen) Lab at York University.<br>
-  Please click through the photos above for descriptions of the work that we're doing here, or the tabs to learn more about the lab.
+  Please click through the photos above for descriptions of some of our field work that we're doing here, or click on the <a href="https://erynmcfarlane.github.io/research.html">'Research'</a> to  learn more about overarching research themes in the lab.
 
 </p>
 
@@ -372,3 +363,72 @@ $(document).ready(function () {
 
 </body>
 </html>
+<style>
+.photo-collage {
+  display: flex;
+  gap: 15px;
+}
+
+.photo-container {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.photo-container img {
+  max-width: 200px;
+  border-radius: 10px;
+}
+
+/* Hidden floating text */
+.floating-text {
+  font-size:12px;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: rgba(0,0,0,0.7);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  opacity: 0;
+  transition: all 0.3s ease;
+  pointer-events: none; /* so clicks pass through */
+}
+
+/* When active (clicked) */
+.photo-container.active .floating-text {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+</style>
+
+<div class="photo-collage">
+  <div class="photo-container">
+    <img src="images/colias" alt="Photo 1">
+    <div class="floating-text"><i>Colias</i> butterflies hybridize extensively throughout their range. <a href="https://erynmcfarlane.github.io/team.html#Amanda">Amanda Sabatino's</a> research asks if variation in hybridization is associated with variation in an urban landscape. </div>
+  </div>
+  <div class="photo-container">
+    <img src="images/highland_red-sika_hybrid_KenMcInnes.jpg" alt="Photo 2">
+    <div class="floating-text">Highland red-sika hybrid</div>
+  </div>
+  <div class="photo-container">
+    <img src="images/seeds" alt="Photo 4">
+    <div class="floating-text">Seeds close-up</div>
+  </div>
+  <div class="photo-container">
+    <img src="images/mouse.png" alt="Photo 5">
+    <div class="floating-text">White footed mice are moving northward, into places that used to have only deer mice. Sargon's research asks if these species hybridize, and if that hybridization is changing over time.</div>
+  </div>
+</div>
+
+<script>
+document.querySelectorAll('.photo-container').forEach(container => {
+  container.addEventListener('click', () => {
+    // remove "active" from others
+    document.querySelectorAll('.photo-container').forEach(c => c.classList.remove('active'));
+    // toggle current
+    container.classList.toggle('active');
+  });
+});
+</script>
