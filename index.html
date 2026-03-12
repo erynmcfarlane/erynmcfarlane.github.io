@@ -440,8 +440,27 @@ document.querySelectorAll('.photo-container').forEach(container => {
        <h1> News from the lab </h1>
 
       <h2>Jenna's Defense</h2>
-    <img src="images/Jenna_defense_powerpoint.jpg" alt="Jenna_defense" style="width:100%">
-    <img src= "images/Jenna_defense_hat.jpg" alt="Jenna_hat" style="width:100%">
+  <div class="row">
+  <div class="column">
+    <img src="images/Jenna_defense_powerpoint.jpg" alt="Jenna_ppt" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Jenna_defense_hat.jpg" alt="Jenna_hat" style="width:100%">
+  </div>
+</div>
+       /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
    <div class="description">
                   <div id="Jenna Defense">
               <p> Dr. Jenna LeBlanc defended her thesis `Unravelling the ecological and evolutionary mysteries of the rough fescue grasses F. hallii and F. campestris' on December 10, 2025. She did a fantastic job in defense, earning a 'Passed with Distinction'.
