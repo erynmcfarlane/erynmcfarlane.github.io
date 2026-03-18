@@ -33,7 +33,37 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif;
 
     .header-bar .nav-links a:hover {
       color: #cce6ff;
-    }             
+    }     
+
+          .hero-section {
+            background: linear-gradient(135deg, #f5fafd 0%, #ffffff 100%);
+            padding: 80px 20px;
+            text-align: center;
+            border-bottom: 1px solid #e1e8ed;
+            margin-bottom: 40px;
+        }
+        .hero-section h1.title {
+            font-size: 4rem;
+            font-weight: 800;
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        .title-accent {
+            width: 60px;
+            height: 4px;
+            background-color: #78B7D0;
+            margin: 0 auto 25px;
+            border-radius: 2px;
+        }
+        .hero-subtitle {
+            max-width: 750px;
+            margin: 0 auto;
+            font-size: 1.25rem;
+            line-height: 1.6;
+            color: #546e7a;
+        }
+
+                     
 .container {padding: 20px;}
 .member {margin-bottom: 20px; border: 1px solid #ddd; padding: 15px; background-color: #fff; border-radius: 5px;}
 .member img {border-radius: 50%; float: left; margin-right: 15px;}
@@ -90,7 +120,6 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif;
 </div>
   </div>
 
-<title>StatsGen Lab</title>
 
 <script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -131,9 +160,6 @@ if (window.hljs) {
   }
 }
 </script>
-
-
-
 
 
 
@@ -303,24 +329,21 @@ $(document).ready(function () {
 <body>
 
 
-<div class="container-fluid main-container">
-
-
-
-<h1 class="title toc-ignore">StatsGenLab</h1>
-
+      <div class="hero-section">
+  <div class="container">
+    <h1 class="title toc-ignore">StatsGen Lab</h1>
+    <div class="title-accent"></div>
+    
+    <p class="hero-subtitle">
+      Welcome to the <strong>Statistical Genetics Lab</strong> at York University. 
+      Explore our field work by clicking the photos below, or visit our 
+      <a href="https://erynmcfarlane.github.io/research.html">Research</a> 
+      page to learn about our core themes in evolutionary genetics.
+    </p>
+  </div>
 </div>
-
-<p>Welcome to the Statistical Genetics (StatsGen) Lab at York University.<br>
-  Please click through the photos below for descriptions of some of our field work that we're doing here, or click on the <a href="https://erynmcfarlane.github.io/research.html">'Research'</a> to  learn more about overarching research themes in the lab.
-
-</p>
-
-
-
-
-</div>
-
+      
+      
 <script>
 
 // add bootstrap table styles to pandoc tables
@@ -466,6 +489,15 @@ document.querySelectorAll('.photo-container').forEach(container => {
   .description {
     margin-top: 15px;
     line-height: 1.6;
+  }
+      .news-column img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: block;
+    margin: 0 auto; 
   }
 </style>
 
